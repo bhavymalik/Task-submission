@@ -1,4 +1,5 @@
-#include <bits/stdc++.h>
+#include <iostream.h>
+#include<math.h>
 using namespace std;
 
 
